@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="parkkonditoriet.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">   
+    <title>Parkkonditoriet</title>
+
+</head>                 
+
+<body>
+    <header>
+        <img src="IMG_0825-removebg-preview.png" style="width:150px; height:auto;">
+        <h6>Når man bager med kærlighed, kan det smages </h6>
+        <hr>
+        <nav>
+            <ul>
+                <li><a href="forside.html">OM PARKKONDITORIET</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0);" id="dropdownToggle">VORES PRODUKTER</a>
+                    <ul class="dropdown-content">
+                        <li><a href="berliner.html">Polske Berliner</a></li>
+                        <li><a href="brod.html">Brød, Grovboller & Sandwich</a></li>
+                        <li><a href="winerbrod.html">Winerbrød</a></li>
+                        <li><a href="Lagkager.html">Lagkager</a></li>
+                    </ul>
+                </li>
+                <li><a href="kontakt.html">KONTAKT</a></li>
+            </ul>
+        </nav>
+        
+       
+    </header>       
+
+
+    <div class="container2">
+        <div class="row">
+            <div class="left-column">
+                <img src="CHEWY PIZZA CRUST….jpg" alt="Billede beskrivelse">
+            </div>
+            <div class="right-column">
+                <h2>Velkommen til Parkkonditoriet</h2>
+                <p >Siden vi slog vores første brød op i 2022, har Parkkonditoriet været stedet,<br> hvor folk i Lundtofte går hen, når de vil have rigtig gode brød og kager. Vi tror på at lave tingene ordentligt, og det betyder kvalitet fra bunden.</p> 
+                <p >Vi startede dette bageri fordi vi elsker godt brød og søde sager, og ville dele det med alle i nabolaget. Det handler om friske ingredienser, rigtige teknikker, og ikke mindst, en masse kærlighed til det, vi laver.</p>
+                <p >Vi er en familie ejet virksomhed. Vi er alle sammen om at skabe de lækreste brød, kager og alt det midt imellem, og vi bruger høj kvalitet råvarer, så alt er friskt og i top. Når du smager vores brød, kan du mærke forskellen – det er bagt med omhu og erfaring.</p>
+                <p >Det er ikke bare et bageri for os; det er en del af hverdagen her i Lundtofte. Et sted, hvor folk kan mødes, sludre og tage en bid af hverdagen – bogstaveligt talt!</p>
+                <p >Så kig forbi, sig hej, og prøv et af vores mange brød eller kager. Vi er her for at gøre din dag lidt bedre, en bid ad gangen.</p>
+            </div>
+        </div>
+    </div>
+   
+    <div class="container3">
+        <div class="row">
+            <div class="left-column">
+                              <h1>Hvem er vi?</h1>
+               <p> Vi er et ægtepar, der står bag PARKKONDITORIET</p>
+               <p>Vi vil gerne invitere jer til at opleve vores fantastiske bageri. Hos os finder I ikke kun lækre og friske bagværk, men også en varm og venlig atmosfære.</p>
+                <p>Vores passionerede team af bagere stræber efter at levere de bedste produkter til jer hver eneste dag. Fra sprøde croissanter til saftige kager og velsmagende brød - vi har det hele.</p>
+                <p>Vi sætter en ære i at bruge kvalitetsingredienser og traditionelle bageopskrifter. Vi ønsker at bringe smagen af ægthed og hjemmelavet bagning ind i jeres liv. </p>
+                <p>Uanset om I har brug for en hurtig morgenmad, et lækkert mellemmåltid eller en fantastisk kage til en særlig lejlighed, er vi her for at opfylde jeres behov.</p>
+                <p>Vi håber, at I vil give os muligheden for at forkæle jer med vores udsøgte bagværk. Besøg vores bageri, og lad os skabe smagsoplevelser, der vil glæde jeres sanser.</p>
+                <p>Vi ser frem til at betjene dig og i vores bager</p>
+                <p>Agnieszka og Paweł</p>
+            </div>
+            <div class="right-column">  
+                <img src="406284100_18002899274185006_7117800056547506229_n.jpg" alt="Billede beskrivelse">
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>Virkomhedinformation</h4>
+                    <ul>
+                        <P>Lundtofteparken 51, 2800 Kongens Lyngby</P>
+                        <P>CVR: 43331892</P>
+                        <p>Mandag: Lukket</p>
+                        <p>Tirsdag-Fredag: 06-17</p>
+                        <p>Lørdag og  Søndag 06-16</p>
+                        </p>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Kontakt</h4>
+                    <ul>
+                        <li><a href="mailto:parkkonditoriet@gmail.com">parkkonditoriet@gmail.com</a></li>
+                        <li><a href="tel:+4545879140">TLF: 45 87 91 40</a></li>
+
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Følg os</h4>
+                    <div class="social-links">
+                        <a href="https://www.facebook.com/p/ParkKonditoriet-100066540582123/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/parkkonditoriet/"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+   </footer>    
+    
+   <script src="parkkonditoriet.js"></script>
+
+</body>
+</html>
